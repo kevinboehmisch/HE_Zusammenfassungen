@@ -5,7 +5,7 @@
 - Dementsprechend sollte man genügend Zeit einplanen, mindestens 2 Wochen um nicht in einer Endlosspirale der Verzeweiflung und des unendlichen Leids zu enden (Ich habe es unterschätzt und mir nur ein Wochenende Zeit genommen zum lernen (mit die schlimmste Zeit meines Lebens) 
 
 ### Tipps zum lernen:
-- Wenn man die Altklausuren gut beherrscht, hat man schon um die 70% der Klausur sicher, ich empfehle deshalb auch mit diesen anzufangen, Ich habe auch eine bereits bearbeitete bereits hochgeladen.
+- Wenn man die Altklausuren gut beherrscht, hat man schon um die 70% der Klausur sicher, ich empfehle deshalb auch mit diesen anzufangen, Ich habe auch eine bereits bearbeitete hochgeladen.
 - Die Module und Batch file Programmieraufgabe kommt auch jedes Semester leicht abgeändert dran, wenn man sich die Logik der Befehle merkt kann man in der Klausur, auch wenn man keine Ahnung hat, diese einfach mal hinschreiben, meistens gibt es dann trotzdem Punkte
 - Das Labor kann meistens vernachlässigt werden, da in der Klausur das zu programmierende Batch File und Module wesentlich einfacher sind und das Labor eher verwirrt mit seiner Komplexität 
 
