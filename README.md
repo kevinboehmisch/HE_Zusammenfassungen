@@ -1,8 +1,8 @@
 # Wichtige Hinweise:
 
-- Die Zusammenfassungen sollen dir dabei helfen die Klausurenphase gut zu überstehen und hoffentlich auch gut abzuschließen, jedoch ist es wichtig diese nicht einfach auszudrucken und mit in die Klausur zu nehmen, sondern man sollte sich wirklich damit außeinandersetzen und am besten seine eigene schreiben, so lernt es sich am besten!
 - Die Zusammenfassungen sind so gestaltet, dass sie möglichst "Idiotensicher" sind, da ich mir den Stoff auch erst selber kurz vor der Klausur erarbeiten musste und mein Wissen davor noch "sehr bescheiden" (nicht vorhanden) war.
-  Die Erklärungen sind deshalb oftmals so gestaltet, dass man auch ohne Vorwissen gut damit arbeiten kann und trotzdem eine gute Note erzielen kann.
+  Die Erklärungen sind deshalb oftmals so geschrieben, dass man auch ohne Vorwissen gut damit arbeiten kann und trotzdem eine gute Note erzielen kann.
+- Die Zusammenfassungen sollen dabei helfen die Klausurenphase gut zu überstehen und hoffentlich auch gut abzuschließen, jedoch ist es wichtig diese nicht einfach auszudrucken und mit in die Klausur zu nehmen, sondern man sollte sich wirklich damit außeinandersetzen und am besten seine eigene schreiben, so lernt es sich am besten!
 
 ### Ansatz für eine erfolgreiche Klausurenphase:
 - Immer zuerst die Altklausuren bearbeiten, bevor man sich an die Zusammenfassung setzt nicht andersrum!
