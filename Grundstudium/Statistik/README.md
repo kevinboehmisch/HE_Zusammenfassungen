@@ -1,7 +1,8 @@
 # Wichtige Hinweise:
 
 ### Link zu den Altklausuren:
-- Umfangreiches Archiv der Hochschule mit Altklausuren in Statistik: https://intranetportal.hs-esslingen.de/meine-hochschule/organisation/zentrale-wissenschaftliche-einrichtungen/zwe-studieneingang-und-grundstudium/fachgruppe-mathematik/pruefungsaufgaben/it
+- Umfangreiches Archiv der Hochschule mit Altklausuren in Statistik:
+- https://intranetportal.hs-esslingen.de/meine-hochschule/organisation/zentrale-wissenschaftliche-einrichtungen/zwe-studieneingang-und-grundstudium/fachgruppe-mathematik/pruefungsaufgaben/it
 
 ### Fachbegriffe:
 - Diese sollte man nicht unterschätzen, wenn man nicht weiß, was man machen muss, kann man auch keine gute Note bekommen.
