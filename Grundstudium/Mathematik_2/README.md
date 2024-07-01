@@ -1,8 +1,3 @@
-# Wichtige Hinweise:
-
-### Zeitaufwand: 
-- Mathe 2 ist auch eines der schwierigen Fächer deshalb empfehle ich auch hier rechtzeitig anzufangen, mindestens 2-3 Wochen (Mir lag Mathe 2 nicht deshalb habe ich auch schon relativ früh angefangen zu lernen, 3 Wochen früher)
-
 ### Tipps zum lernen:
 - Unbedingt Altklausuren lernen!
 - Meine Zusammenfassung basiert deshalb auch auf den Altklausuren, ich versuche dort alles auch sehr ausführlich zu erklären.
