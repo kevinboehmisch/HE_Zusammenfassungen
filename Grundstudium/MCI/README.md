@@ -1,7 +1,7 @@
 # Wichtige Hinweise:
 
 ### Zeitaufwand: 
-- Der Zeitaufwand für MCI ist relativ gering, 1-3 Tage reichen vollkommen aus für eine sehr gute Note im 1er Bereich (für 1.0 habe ich 1 Tag gelernt)
+- Der Zeitaufwand für MCI ist relativ gering, 1-3 Tage reichen vollkommen aus für eine sehr gute Note im 1er Bereich
 - Die Klausur darf man aber trotzdem nicht unterschätzen. In keinem Fach ist es so einfach eine 1 zu schreiben wie in MCI, weshalb jeder versuchen sollte diese auch mitzunehmen! Wer einfach nur einen Spickzettel kopiert und denkt er bekommt damit ohne Vorbereitung eine gute Note wird auf keinen Fall durchfallen, aber verpasst die Chance auf eine sehr einfache 1, welche wichtig ist um den Schnitt für die Bewerbung zum Praktikum anzuheben!
 
 ### Tipps zum lernen:
