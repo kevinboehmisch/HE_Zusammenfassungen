@@ -1,9 +1,5 @@
 # Wichtige Hinweise:
 
-### Zeitaufwand: 
-- Diskrete Mathematik sollte nicht unterschätzt werden, die Durchfallquote ist relativ hoch
-- Ich empfehle schon mindestens 2 Wochen davor mit dem lernen anzufangen dann gelingt es auch mit einer guten Note zu bestehen (für diskrete Mathematik habe ich 3 Wochen früher angefangen und eine 1.3 bekommen)
-  
 ### Tipps zum lernen:
 - Das Skript ist sehr komplex und ohne eine gute Basis fällt es einem schwer es zu verstehen, zumindest kam es mir so vor.
 - Ich habe mich deshalb auf die Altklausuren fokussiert und die Begriffe, den Ansatz und die Lösung sehr ausführlich erklärt
