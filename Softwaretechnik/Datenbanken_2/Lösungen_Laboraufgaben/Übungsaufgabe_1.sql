@@ -1,2 +1,2 @@
-SELECT name, vorname FROM dbo.Boehmisch_spieler
-WHERE ort<>'Göppingen';
+SELECT name, vorname FROM spieler
+WHERE ort<>'GÃ¶ppingen';
