@@ -1,5 +1,5 @@
--- die Werte in der Beispielausgabe in den Übungsgaben stimmen nicht überein
--- externes nachzählen der Werte zeigt aber dass die Abfrage korrekt ist
+-- die Werte in der Beispielausgabe in den Ãœbungsgaben stimmen nicht Ã¼berein
+-- externes nachzÃ¤hlen der Werte zeigt aber dass die Abfrage korrekt ist
 SELECT spielernr, 
        SUM(strafe) AS gesamtstrafe
 FROM dbo.Boehmisch_strafe
