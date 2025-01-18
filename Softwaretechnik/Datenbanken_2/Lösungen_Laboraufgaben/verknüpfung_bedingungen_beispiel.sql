@@ -1,5 +1,5 @@
  SELECT spielernr, name, vorname, strasse, ort 
-FROM dbo.Boehmisch_spieler
+FROM spieler
  WHERE 
-strasse NOT LIKE '%gärten' AND
- ort='Göppingen' OR spielernr=28
+strasse NOT LIKE '%gÃ¤rten' AND
+ ort='GÃ¶ppingen' OR spielernr=28
