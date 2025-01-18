@@ -9,4 +9,4 @@ SELECT
         ELSE 0 
       END AS 'alter'
 FROM 
-    dbo.Boehmisch_spieler;
+    spieler;
