@@ -1,2 +1,2 @@
-SELECT name, vorname FROM dbo.Boehmisch_spieler
+SELECT name, vorname FROM spieler
 WHERE ort='Jebenhausen' OR ort='Uhingen';
