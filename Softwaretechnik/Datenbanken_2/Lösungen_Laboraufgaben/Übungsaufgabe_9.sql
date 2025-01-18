@@ -5,5 +5,5 @@ SELECT geschlecht,
            THEN 1 
            ELSE 0 
        END) AS [Durchschn. Alter]
-FROM dbo.Boehmisch_spieler
+FROM spieler
 GROUP BY geschlecht;
