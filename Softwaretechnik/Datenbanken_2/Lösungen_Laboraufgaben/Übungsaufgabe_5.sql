@@ -1,2 +1,2 @@
-SELECT spielernr FROM dbo.Boehmisch_spieler
+SELECT spielernr FROM spieler
 WHERE name LIKE 'M%';
