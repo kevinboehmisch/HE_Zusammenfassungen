@@ -1,4 +1,4 @@
 SELECT 
-FROM dbo.Boehmisch_spieler
+FROM spieler
 GROUP BY ort
 HAVING COUNT(spielernr) >=2;
