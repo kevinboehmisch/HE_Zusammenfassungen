@@ -1,3 +1,10 @@
+-- Die Aufgabe zuerst runterbrechen:
+--1. maximum gefragt (MAX()) aber Wert muss zuerst gezählt werden (COUNT())
+	--> Subquery notwendig mit COUNT()= MAX() Wert aus Subquery
+--2. gruppierung nach geschlecht gefragt -> granularität erhöhen mit WHERE
+	--> In der Subquery eine WHERE sp.geschlecht=sp2.geschlecht, da somit neue extra Bedingung erstellt wird
+
+
 -- Das Ergebnis der äußeren Query zeigt die Anzahl der Wettkämpfe pro Spieler
 SELECT sp.geschlecht AS 'geschlecht', sp.name AS 'name', sp.vorname AS 'vorname', count(wt.spielernr) AS 'Anzahl Spiele'
 FROM spieler AS sp
